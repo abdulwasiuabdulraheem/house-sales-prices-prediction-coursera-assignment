@@ -1,3 +1,3 @@
 # python-data-analysis-coursera-assignment
 
-In this peer review assignment, I analysed and predicted house prices using python and machine learning. 
+In this peer review assignment, I analysed and predicted house sale prices using python and machine learning. 
